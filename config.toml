@@ -1,2 +1,3 @@
-default = "3440x1440"
-custom = "1280x800"
+default = "3440x1440" #default display resolution when not streaming
+custom = "1280x800" #desired display resolution when streaming
+sunshine_conf = "C:\\Program Files\\Sunshine\\config\\sunshine.conf" #default path to sunshine.conf
