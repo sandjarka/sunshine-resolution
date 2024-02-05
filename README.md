@@ -6,9 +6,9 @@ Primarily made to learn some rust :-)
 1. Download and unzip archive anywhere you want.
 2. Check config.toml file to change resolutions and/or path to sunshine.conf.
 3. Run sunshine-resolution.exe with admin privileges. It will inject callback to this app (needs to be done only once).  
-   3.1. Re-run .exe file is location of sunshine or .exe file has changed.
+   3.1. Re-run .exe file if location of the sunshine or this util file has changed.
 
-P.S. Even thought it is made for automatic usage you can still use as a cli program.
+P.S. Even though it is made for automatic usage you can still use as a cli program.
 ```
 $ .\sunshine-resolution.exe --help
 Usage: sunshine-resolution.exe [OPTIONS]
